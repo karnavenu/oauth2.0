@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-authzserver-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-dynamicreg-client-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-dynamicreg-common-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-dynamicreg-server-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-resourceserver-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-resourceserver-filter-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/amber-oauth2-common-0.22-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jersey-bundle-1.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jersey-client-1.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jersey-core-1.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jersey-json-1.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jersey-multipart-1.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jersey-server-1.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
